@@ -13,8 +13,9 @@
 
         - Triple-A
         - Indie
-        - Epic Games (Triple-A)
-        - Electronic Arts "EA" (Triple-A)
+        - Epic Games
+        - Electronic Arts (EA)
+        - Ubisoft
     
    * Programming Specializition
  
