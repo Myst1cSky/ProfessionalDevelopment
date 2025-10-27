@@ -7,6 +7,7 @@
       - Unity Engine
       - C# and C++
       - Game Programming
+      - Bilingual (English, Spanish)
         
    * Studio Types I want to work with/for
 
