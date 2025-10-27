@@ -19,5 +19,7 @@
    * Programming Specializition
  
         - Gameplay Programming
+             - Basic Combat System
+             - Puzzles
         - AI Programming
         - A bit of UI Programming
