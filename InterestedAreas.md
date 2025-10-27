@@ -5,7 +5,7 @@
     * What are my strengths
  
       - Unity Engine
-      - C# and C++
+      - Python, C#, and C++
       - Game Programming
       - Bilingual (English, Spanish)
         
