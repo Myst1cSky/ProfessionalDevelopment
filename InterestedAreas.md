@@ -4,4 +4,19 @@
 
     * What are my strengths
  
-      - 
+      - Unity Engine
+      - C# and C++
+      - Game Programming
+        
+   * Studio Types I want to work with/for
+
+        - Triple-A
+        - Indie
+        - Epic Games (Triple-A)
+        - Electronic Arts "EA" (Triple-A)
+    
+   * Programming Specializition
+ 
+        - Gameplay Programming
+        - AI Programming
+        - A bit of UI Programming
