@@ -1,5 +1,5 @@
 # Professional Development
-Oct272025 Professional startup
+October 27 2025 Professional Development Week startup
 
 ## Table of Contents
 * [Interested Areas](./InterestedAreas.md)
